@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL%208-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white)
 
-🌐 [**접속 링크**](https://smartticketing.duckdns.org)
+[**SmartTicketing**](https://smartticketing.duckdns.org)
 
 ## 프로젝트 소개
 
